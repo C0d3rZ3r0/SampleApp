@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="messageMainActivity">This is just a sample. Never take it seriously.</string>
+    <string name="buttonText">Go To Next Activity</string>
+    <string name="button3Text1">Display Message</string>
+    <string name="textViewText">This is the second activity. Touch the button below to go back.</string>
+    <string name="button2Text">Go To Previous Activity</string>
+    <string name="button3Text2">Hide Message</string>
+</resources>
